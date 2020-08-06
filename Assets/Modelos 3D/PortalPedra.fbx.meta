@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 0c59705a5ae93474c81773b789f93d60
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Light
+    100006: //RootNode
+    100008: Circulo
+    100010: Parde_Direita
+    100012: Parde_Esquerda
+    100014: Porta1
+    100016: Porta2
+    100018: PortalPedra
+    100020: Quadrado
+    100022: Retangulo
+    100024: Triangulo
+    400000: Camera
+    400002: Cube
+    400004: Light
+    400006: //RootNode
+    400008: Circulo
+    400010: Parde_Direita
+    400012: Parde_Esquerda
+    400014: Porta1
+    400016: Porta2
+    400018: PortalPedra
+    400020: Quadrado
+    400022: Retangulo
+    400024: Triangulo
+    2000000: Camera
+    2100000: Material
+    2300000: Cube
+    2300002: Circulo
+    2300004: Parde_Direita
+    2300006: Parde_Esquerda
+    2300008: Porta1
+    2300010: Porta2
+    2300012: PortalPedra
+    2300014: Quadrado
+    2300016: Retangulo
+    2300018: Triangulo
+    3300000: Cube
+    3300002: Circulo
+    3300004: Parde_Direita
+    3300006: Parde_Esquerda
+    3300008: Porta1
+    3300010: Porta2
+    3300012: PortalPedra
+    3300014: Quadrado
+    3300016: Retangulo
+    3300018: Triangulo
+    4300000: Cube
+    4300002: PortalPedra
+    4300004: Parde_Direita
+    4300006: Parde_Esquerda
+    4300008: Porta1
+    4300010: Porta2
+    4300012: Quadrado
+    4300014: Retangulo
+    4300016: Triangulo
+    4300018: Circulo
+    10800000: Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AondeColocar
+    second: {fileID: 2100000, guid: da7d35a8551a5324e965bc0ff2ca4875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fechado_Porta
+    second: {fileID: 2100000, guid: cb4276607540a97428885f854cf329ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MarromClaro
+    second: {fileID: 2100000, guid: 1d6841e6c7b954a4a9586f165d265a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 0248a9b33cfae8d4bb9d24271bbf6444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 14a1a1150e191314da5aac2b6b2f88be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_Escura
+    second: {fileID: 2100000, guid: 1b7ac0e20fee39c4892bd42543f970a7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

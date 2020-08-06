@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: a1b2915bfb11ba94ca2c7bba92536a06
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Braco_Direito
+    100002: Braco_Esquerdo
+    100004: "Cabe\xE7a"
+    100006: Circle
+    100008: Circle.001
+    100010: Coxa_Direita
+    100012: Coxa_Esqeurda
+    100014: Joelho_Direito
+    100016: Joelho_Esquerdo
+    100018: Mao_Direita
+    100020: Mao_Esquerda
+    100022: mixamorig:Head
+    100024: mixamorig:HeadTop_End
+    100026: mixamorig:Hips
+    100028: mixamorig:LeftArm
+    100030: mixamorig:LeftFoot
+    100032: mixamorig:LeftForeArm
+    100034: mixamorig:LeftHand
+    100036: mixamorig:LeftLeg
+    100038: mixamorig:LeftShoulder
+    100040: mixamorig:LeftToe_End
+    100042: mixamorig:LeftToeBase
+    100044: mixamorig:LeftUpLeg
+    100046: mixamorig:Neck
+    100048: mixamorig:RightArm
+    100050: mixamorig:RightFoot
+    100052: mixamorig:RightForeArm
+    100054: mixamorig:RightHand
+    100056: mixamorig:RightLeg
+    100058: mixamorig:RightShoulder
+    100060: mixamorig:RightToe_End
+    100062: mixamorig:RightToeBase
+    100064: mixamorig:RightUpLeg
+    100066: mixamorig:Spine
+    100068: mixamorig:Spine1
+    100070: mixamorig:Spine2
+    100072: Perna_Direita
+    100074: Perna_Esquerda
+    100076: Pescoco
+    100078: Quadril
+    100080: Torus.000
+    100082: Tronco
+    100084: Wizar Front
+    100086: Wizard Back
+    100088: //RootNode
+    100090: Wizard Right
+    400000: Braco_Direito
+    400002: Braco_Esquerdo
+    400004: "Cabe\xE7a"
+    400006: Circle
+    400008: Circle.001
+    400010: Coxa_Direita
+    400012: Coxa_Esqeurda
+    400014: Joelho_Direito
+    400016: Joelho_Esquerdo
+    400018: Mao_Direita
+    400020: Mao_Esquerda
+    400022: mixamorig:Head
+    400024: mixamorig:HeadTop_End
+    400026: mixamorig:Hips
+    400028: mixamorig:LeftArm
+    400030: mixamorig:LeftFoot
+    400032: mixamorig:LeftForeArm
+    400034: mixamorig:LeftHand
+    400036: mixamorig:LeftLeg
+    400038: mixamorig:LeftShoulder
+    400040: mixamorig:LeftToe_End
+    400042: mixamorig:LeftToeBase
+    400044: mixamorig:LeftUpLeg
+    400046: mixamorig:Neck
+    400048: mixamorig:RightArm
+    400050: mixamorig:RightFoot
+    400052: mixamorig:RightForeArm
+    400054: mixamorig:RightHand
+    400056: mixamorig:RightLeg
+    400058: mixamorig:RightShoulder
+    400060: mixamorig:RightToe_End
+    400062: mixamorig:RightToeBase
+    400064: mixamorig:RightUpLeg
+    400066: mixamorig:Spine
+    400068: mixamorig:Spine1
+    400070: mixamorig:Spine2
+    400072: Perna_Direita
+    400074: Perna_Esquerda
+    400076: Pescoco
+    400078: Quadril
+    400080: Torus.000
+    400082: Tronco
+    400084: Wizar Front
+    400086: Wizard Back
+    400088: //RootNode
+    400090: Wizard Right
+    2100000: Chapeu
+    2100002: Capa
+    2100004: Oculos
+    2100006: Pele
+    2100008: Cabelo
+    4300000: Circle
+    4300002: Circle.001
+    4300004: Torus.000
+    4300006: Tronco
+    4300008: Braco_Direito
+    4300010: Mao_Direita
+    4300012: Braco_Esquerdo
+    4300014: Mao_Esquerda
+    4300016: Pescoco
+    4300018: "Cabe\xE7a"
+    4300020: Quadril
+    4300022: Coxa_Direita
+    4300024: Joelho_Direito
+    4300026: Perna_Direita
+    4300028: Coxa_Esqeurda
+    4300030: Joelho_Esquerdo
+    4300032: Perna_Esquerda
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Braco_Direito
+    13700002: Braco_Esquerdo
+    13700004: "Cabe\xE7a"
+    13700006: Circle
+    13700008: Circle.001
+    13700010: Coxa_Direita
+    13700012: Coxa_Esqeurda
+    13700014: Joelho_Direito
+    13700016: Joelho_Esquerdo
+    13700018: Mao_Direita
+    13700020: Mao_Esquerda
+    13700022: Perna_Direita
+    13700024: Perna_Esquerda
+    13700026: Pescoco
+    13700028: Quadril
+    13700030: Torus.000
+    13700032: Tronco
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 85c40b9c6d6759d4899815a4997b40e9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arvore1
+    100002: Arvore2
+    100004: Cereja1
+    100006: Cereja14
+    100008: Cereja2
+    100010: Cereja2.001
+    100012: Cereja2.002
+    100014: Cereja3
+    100016: Cereja3.001
+    100018: Nivel1_Geometrico
+    100020: //RootNode
+    100022: Plane.001
+    100024: Sphere
+    100026: Sphere.001
+    100028: Sphere.002
+    100030: Text
+    400000: Arvore1
+    400002: Arvore2
+    400004: Cereja1
+    400006: Cereja14
+    400008: Cereja2
+    400010: Cereja2.001
+    400012: Cereja2.002
+    400014: Cereja3
+    400016: Cereja3.001
+    400018: Nivel1_Geometrico
+    400020: //RootNode
+    400022: Plane.001
+    400024: Sphere
+    400026: Sphere.001
+    400028: Sphere.002
+    400030: Text
+    2100000: Grama
+    2100002: Terra_Clara
+    2100004: Terra_Escura
+    2100006: Cereja
+    2100008: Cabo_Cereja
+    2100010: Tree
+    2100012: Tree Dark
+    2100014: a
+    2100016: Folha Dark
+    2100018: Tronco Pinheiro
+    2100020: Folhas Pinheiro
+    2100022: No Name
+    2100024: PedraDeserto
+    2300000: Arvore1
+    2300002: Arvore2
+    2300004: Cereja1
+    2300006: Cereja14
+    2300008: Cereja2
+    2300010: Cereja2.001
+    2300012: Cereja2.002
+    2300014: Cereja3
+    2300016: Cereja3.001
+    2300018: Nivel1_Geometrico
+    2300020: Plane.001
+    2300022: Sphere
+    2300024: Sphere.001
+    2300026: Sphere.002
+    2300028: Text
+    3300000: Arvore1
+    3300002: Arvore2
+    3300004: Cereja1
+    3300006: Cereja14
+    3300008: Cereja2
+    3300010: Cereja2.001
+    3300012: Cereja2.002
+    3300014: Cereja3
+    3300016: Cereja3.001
+    3300018: Nivel1_Geometrico
+    3300020: Plane.001
+    3300022: Sphere
+    3300024: Sphere.001
+    3300026: Sphere.002
+    3300028: Text
+    4300000: Nivel1_Geometrico
+    4300002: Cereja1
+    4300004: Cereja2
+    4300006: Cereja3
+    4300008: Cereja14
+    4300010: Arvore2
+    4300012: Arvore1
+    4300014: Cereja2.001
+    4300016: Cereja3.001
+    4300018: Cereja2.002
+    4300020: Plane.001
+    4300022: Text
+    4300024: Sphere
+    4300026: Sphere.001
+    4300028: Sphere.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabo_Cereja
+    second: {fileID: 2100000, guid: 0681e53bc408728478235002053985db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cereja
+    second: {fileID: 2100000, guid: 83ddd21391b6af74298fe8edf5e1d1aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folha Dark
+    second: {fileID: 2100000, guid: ab4a643289eb385409c3d06726dfa423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas Pinheiro
+    second: {fileID: 2100000, guid: a548ff29fb3203e4485947d5e28d31b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grama
+    second: {fileID: 2100000, guid: 77149cc1c3cc1ca42be8ba5e2afe3ad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 87cf3d28e6f3e0641afdb297d47268ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PedraDeserto
+    second: {fileID: 2100000, guid: 96b28cc5e480b594d852b3f044c89836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra_Clara
+    second: {fileID: 2100000, guid: c9b7aae523308224d859db0308c85b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra_Escura
+    second: {fileID: 2100000, guid: 05ebe34a10396024194a4fe138afa289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree
+    second: {fileID: 2100000, guid: 410d8dae77617b7458dc79e137705814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Dark
+    second: {fileID: 2100000, guid: ddb028ab90d43244bb78ffbcd88e6331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tronco Pinheiro
+    second: {fileID: 2100000, guid: cbed16146405b35449093a4674048fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a
+    second: {fileID: 2100000, guid: 4011ae5c64c34624fbebf780d35d15ae, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

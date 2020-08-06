@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 4a36a7861bff89141b55338928f85bb0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Braco_Direito
+    100002: Braco_Esquerdo
+    100004: "Cabe\xE7a"
+    100006: Circle
+    100008: Circle.001
+    100010: Coxa_Direita
+    100012: Coxa_Esqeurda
+    100014: Joelho_Direito
+    100016: Joelho_Esquerdo
+    100018: Mao_Direita
+    100020: Mao_Esquerda
+    100022: mixamorig:Head
+    100024: mixamorig:HeadTop_End
+    100026: mixamorig:Hips
+    100028: mixamorig:LeftArm
+    100030: mixamorig:LeftFoot
+    100032: mixamorig:LeftForeArm
+    100034: mixamorig:LeftHand
+    100036: mixamorig:LeftLeg
+    100038: mixamorig:LeftShoulder
+    100040: mixamorig:LeftToe_End
+    100042: mixamorig:LeftToeBase
+    100044: mixamorig:LeftUpLeg
+    100046: mixamorig:Neck
+    100048: mixamorig:RightArm
+    100050: mixamorig:RightFoot
+    100052: mixamorig:RightForeArm
+    100054: mixamorig:RightHand
+    100056: mixamorig:RightLeg
+    100058: mixamorig:RightShoulder
+    100060: mixamorig:RightToe_End
+    100062: mixamorig:RightToeBase
+    100064: mixamorig:RightUpLeg
+    100066: mixamorig:Spine
+    100068: mixamorig:Spine1
+    100070: mixamorig:Spine2
+    100072: Perna_Direita
+    100074: Perna_Esquerda
+    100076: Pescoco
+    100078: Quadril
+    100080: Torus.000
+    100082: Tronco
+    100084: Wizar Front
+    100086: Wizard Back
+    100088: //RootNode
+    100090: Wizard Right
+    400000: Braco_Direito
+    400002: Braco_Esquerdo
+    400004: "Cabe\xE7a"
+    400006: Circle
+    400008: Circle.001
+    400010: Coxa_Direita
+    400012: Coxa_Esqeurda
+    400014: Joelho_Direito
+    400016: Joelho_Esquerdo
+    400018: Mao_Direita
+    400020: Mao_Esquerda
+    400022: mixamorig:Head
+    400024: mixamorig:HeadTop_End
+    400026: mixamorig:Hips
+    400028: mixamorig:LeftArm
+    400030: mixamorig:LeftFoot
+    400032: mixamorig:LeftForeArm
+    400034: mixamorig:LeftHand
+    400036: mixamorig:LeftLeg
+    400038: mixamorig:LeftShoulder
+    400040: mixamorig:LeftToe_End
+    400042: mixamorig:LeftToeBase
+    400044: mixamorig:LeftUpLeg
+    400046: mixamorig:Neck
+    400048: mixamorig:RightArm
+    400050: mixamorig:RightFoot
+    400052: mixamorig:RightForeArm
+    400054: mixamorig:RightHand
+    400056: mixamorig:RightLeg
+    400058: mixamorig:RightShoulder
+    400060: mixamorig:RightToe_End
+    400062: mixamorig:RightToeBase
+    400064: mixamorig:RightUpLeg
+    400066: mixamorig:Spine
+    400068: mixamorig:Spine1
+    400070: mixamorig:Spine2
+    400072: Perna_Direita
+    400074: Perna_Esquerda
+    400076: Pescoco
+    400078: Quadril
+    400080: Torus.000
+    400082: Tronco
+    400084: Wizar Front
+    400086: Wizard Back
+    400088: //RootNode
+    400090: Wizard Right
+    2100000: Chapeu
+    2100002: Capa
+    2100004: Oculos
+    2100006: Pele
+    2100008: Cabelo
+    4300000: Circle
+    4300002: Circle.001
+    4300004: Torus.000
+    4300006: Tronco
+    4300008: Braco_Direito
+    4300010: Mao_Direita
+    4300012: Braco_Esquerdo
+    4300014: Mao_Esquerda
+    4300016: Pescoco
+    4300018: "Cabe\xE7a"
+    4300020: Quadril
+    4300022: Coxa_Direita
+    4300024: Joelho_Direito
+    4300026: Perna_Direita
+    4300028: Coxa_Esqeurda
+    4300030: Joelho_Esquerdo
+    4300032: Perna_Esquerda
+    7400000: AndandoFrente
+    9500000: //RootNode
+    13700000: Braco_Direito
+    13700002: Braco_Esquerdo
+    13700004: "Cabe\xE7a"
+    13700006: Circle
+    13700008: Circle.001
+    13700010: Coxa_Direita
+    13700012: Coxa_Esqeurda
+    13700014: Joelho_Direito
+    13700016: Joelho_Esquerdo
+    13700018: Mao_Direita
+    13700020: Mao_Esquerda
+    13700022: Perna_Direita
+    13700024: Perna_Esquerda
+    13700026: Pescoco
+    13700028: Quadril
+    13700030: Torus.000
+    13700032: Tronco
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabelo
+    second: {fileID: 2100000, guid: 2e61f449c29cc3d44a1fecddbbc7912f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capa
+    second: {fileID: 2100000, guid: 61104623f0f9e5b4ea344f4c0fe0c022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chapeu
+    second: {fileID: 2100000, guid: 68e003fd94d04a442ae605a611910df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oculos
+    second: {fileID: 2100000, guid: fcba7c89ab293e445a98b2ad241782e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pele
+    second: {fileID: 2100000, guid: 8b553e21b5cc87a41b501de4197ba79d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AndandoFrente
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Wizard Breco@Walking(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Circle
+      parentName: Wizard Breco@Walking(Clone)
+      position: {x: -0.0026771128, y: 0.6725071, z: 0.0037611574}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 80.05111, y: 80.05111, z: 80.05111}
+    - name: Circle.001
+      parentName: Wizard Breco@Walking(Clone)
+      position: {x: -0.0021728352, y: 0.50263685, z: 0.013889123}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 97.383675, y: 86.54106, z: 97.383675}
+    - name: Torus.000
+      parentName: Wizard Breco@Walking(Clone)
+      position: {x: -0.00056478754, y: 0.6187269, z: 0.07000049}
+      rotation: {x: 0.000000021855696, y: 0, z: -0, w: 1}
+      scale: {x: 1.4693768, y: 1.4693768, z: 1.4693768}
+    - name: Tronco
+      parentName: Wizard Breco@Walking(Clone)
+      position: {x: -0.00014537363, y: 0.61828023, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 7.7391677, y: 6.143104, z: 7.7391677}
+    - name: Braco_Direito
+      parentName: Tronco
+      position: {x: 2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mao_Direita
+      parentName: Braco_Direito
+      position: {x: -2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Braco_Esquerdo
+      parentName: Tronco
+      position: {x: 2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mao_Esquerda
+      parentName: Braco_Esquerdo
+      position: {x: -2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pescoco
+      parentName: Tronco
+      position: {x: 2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "Cabe\xE7a"
+      parentName: Pescoco
+      position: {x: 2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Quadril
+      parentName: Tronco
+      position: {x: 2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coxa_Direita
+      parentName: Quadril
+      position: {x: -2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joelho_Direito
+      parentName: Coxa_Direita
+      position: {x: 2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Perna_Direita
+      parentName: Joelho_Direito
+      position: {x: -2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coxa_Esqeurda
+      parentName: Quadril
+      position: {x: -2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joelho_Esquerdo
+      parentName: Coxa_Esqeurda
+      position: {x: 2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Perna_Esquerda
+      parentName: Joelho_Esquerdo
+      position: {x: -2.3283064e-12, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wizar Front
+      parentName: Wizard Breco@Walking(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Wizard Back
+      parentName: Wizard Breco@Walking(Clone)
+      position: {x: 0.8076724, y: 0, z: -0.24872155}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Wizard Right
+      parentName: Wizard Breco@Walking(Clone)
+      position: {x: -0, y: 0, z: 1.3405795}
+      rotation: {x: 0.000000015454313, y: -0.70710677, z: 0.000000015454312, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: mixamorig:Hips
+      parentName: Wizard Breco@Walking(Clone)
+      position: {x: 0, y: 0.42079753, z: -0.016194548}
+      rotation: {x: 0.000000021882805, y: 0.0000000037901144, z: -0.0000000013162069,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.07565807, z: 0.00076198904}
+      rotation: {x: 0.0050355466, y: -0.000000003798115, z: -0.0000000015791446, w: 0.99998736}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.088272214, z: 0}
+      rotation: {x: 0.0000000046566124, y: 0.000000003807913, z: 0.0000000017480186,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.10088257, z: 0}
+      rotation: {x: -0.0000000069849184, y: -0.000000011343257, z: 0.0000000027467917,
+        w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999976}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.037075322, y: 0.10297248, z: -0.00014042431}
+      rotation: {x: 0.5622339, y: -0.4282347, z: 0.56438774, w: 0.42658478}
+      scale: {x: 1.0000007, y: 1.0000013, z: 1.0000014}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -0, y: 0.07685137, z: 0}
+      rotation: {x: -0.11063878, y: -0.0048736627, z: 0.043736484, w: 0.9928859}
+      scale: {x: 1.0000018, y: 1.0000032, z: 1.0000024}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -2.7755574e-18, y: 0.12103787, z: 7.105427e-17}
+      rotation: {x: -0.026436934, y: 0.002602645, z: -0.07328638, w: 0.9969571}
+      scale: {x: 1.0000013, y: 1.0000001, z: 1.0000006}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: -4.440892e-18, y: 0.12820418, z: -7.105427e-17}
+      rotation: {x: -0, y: -0, z: 5.384208e-10, w: 1}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000012}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.037075322, y: 0.10302152, z: 0.004728271}
+      rotation: {x: 0.5971635, y: 0.40027478, z: -0.5257772, w: 0.4546804}
+      scale: {x: 1.0000013, y: 1.0000031, z: 1.0000018}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -2.220446e-18, y: 0.0774039, z: 0}
+      rotation: {x: -0.12189622, y: 0.028112091, z: -0.092532165, w: 0.9878202}
+      scale: {x: 1.0000029, y: 1.0000019, z: 1.0000024}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -2.220446e-18, y: 0.12299783, z: 0}
+      rotation: {x: -0.020707639, y: -0.0048960964, z: 0.073581375, w: 0.99706227}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000012}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: -0, y: 0.12808244, z: -7.105427e-17}
+      rotation: {x: -0, y: -0, z: -0.0000000027794156, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.11349285, z: -2.089223e-10}
+      rotation: {x: -0.0050355424, y: 0.000000011362626, z: -0.0000000015614748, w: 0.99998736}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.031467207, z: -0.0009983059}
+      rotation: {x: -0.0000000018950548, y: -0.0000000037901144, z: 7.521185e-10,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999964}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.3146354, z: -0.009981891}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.07295775, y: -0.04201602, z: 0.010831151}
+      rotation: {x: -0.0000007264545, y: -0.00012508956, z: 0.9999832, w: -0.0058048065}
+      scale: {x: 1.00001, y: 1.0000098, z: 0.9999986}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -0, y: 0.1993541, z: 0}
+      rotation: {x: 0.00054627267, y: 0.00002119064, z: 0.038731493, w: 0.9992496}
+      scale: {x: 1.0000044, y: 1.0000029, z: 1.0000015}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: -8.881784e-18, y: 0.14039692, z: -1.110223e-18}
+      rotation: {x: 0.5793332, y: 0.1123424, z: -0.0810269, w: 0.8032353}
+      scale: {x: 1.0000033, y: 1.0000019, z: 1.0000015}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: 8.881784e-18, y: 0.084823884, z: 0}
+      rotation: {x: 0.14685577, y: 0.020977847, z: 0.13984647, w: 0.97899765}
+      scale: {x: 0.9999998, y: 1.0000019, z: 1.0000005}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: -0, y: 0.0374965, z: -3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.07295775, y: -0.04201602, z: 0.013401327}
+      rotation: {x: 0.000043646454, y: -0.007522403, z: 0.9999549, w: 0.005803981}
+      scale: {x: 1.0000007, y: 1.000003, z: 0.99999887}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: -0, y: 0.19937664, z: 0}
+      rotation: {x: -0.0009795431, y: 0.00003794182, z: -0.03872579, w: 0.99924946}
+      scale: {x: 1.0000052, y: 1.0000026, z: 1.0000004}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: -8.881784e-18, y: 0.14041704, z: 0}
+      rotation: {x: 0.59196085, y: -0.105135426, z: 0.078260876, w: 0.79523844}
+      scale: {x: 1.0000023, y: 1.0000019, z: 1.0000012}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -0, y: 0.088272884, z: 3.5527136e-17}
+      rotation: {x: 0.14202349, y: -0.01918115, z: -0.13245942, w: 0.9807731}
+      scale: {x: 1.0000019, y: 0.9999997, z: 1}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: -0, y: 0.037218362, z: -3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

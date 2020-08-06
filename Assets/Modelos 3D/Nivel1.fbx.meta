@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 4071759f2e0fc4147ab2166a218b1dd6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circulo
+    100002: Cubo
+    100004: //RootNode
+    100006: Nivel1_Geometrico
+    100008: PortalPedra
+    100010: Text
+    100012: Triangulo
+    400000: Circulo
+    400002: Cubo
+    400004: //RootNode
+    400006: Nivel1_Geometrico
+    400008: PortalPedra
+    400010: Text
+    400012: Triangulo
+    2100000: Grama
+    2100002: Terra_Clara
+    2100004: Terra_Escura
+    2100006: Material.002
+    2100008: Cubo_Mat
+    2100010: Circulo_mat
+    2100012: Triangulo_mat
+    2100014: Num1_mat
+    2300000: Circulo
+    2300002: Cubo
+    2300004: Nivel1_Geometrico
+    2300006: PortalPedra
+    2300008: Text
+    2300010: Triangulo
+    3300000: Circulo
+    3300002: Cubo
+    3300004: Nivel1_Geometrico
+    3300006: PortalPedra
+    3300008: Text
+    3300010: Triangulo
+    4300000: Nivel1_Geometrico
+    4300002: PortalPedra
+    4300004: Cubo
+    4300006: Circulo
+    4300008: Triangulo
+    4300010: Text
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circulo_mat
+    second: {fileID: 2100000, guid: e55342e61ce0ebc4e8d501e30d9e6dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cubo_Mat
+    second: {fileID: 2100000, guid: 91ae85a2473c43b4cbb39bf8433c6843, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grama
+    second: {fileID: 2100000, guid: 77149cc1c3cc1ca42be8ba5e2afe3ad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: be552755add06864c817cbe0c0453e04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Num1_mat
+    second: {fileID: 2100000, guid: 87cf3d28e6f3e0641afdb297d47268ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra_Clara
+    second: {fileID: 2100000, guid: c9b7aae523308224d859db0308c85b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra_Escura
+    second: {fileID: 2100000, guid: 05ebe34a10396024194a4fe138afa289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Triangulo_mat
+    second: {fileID: 2100000, guid: 3c9184edfc2eb694b929f7bd388b1551, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
