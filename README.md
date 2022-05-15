@@ -4,7 +4,7 @@
 </h1>
 
 <p align="right">
-✍🏻 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock
+  An educational game guided by the National Common Curricular Base
   <br><br>
   <!-- License -->
   <a>
@@ -17,7 +17,7 @@
 Put some images of your project here.
 
 ## :open_book: About 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+The Mini Kids has as its main objective the education of children inserted in the stage of early childhood education and elementary school I, using a virtual educational game as a tool for this, having as a basis for its development official guiding documents, such as the BNCC, DCNEI, and RCNEI, etc.
 
 ## :bricks: This project was built with: 
 - [Unity](https://unity.com/)
