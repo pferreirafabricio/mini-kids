@@ -15,6 +15,8 @@
 
 ## :eyes: Overview
 
+> Play on Itch.io: https://pferreirafabricio.itch.io/mini-kids
+
 <p align="center">
   <img src="./Screenshots/Home.png" width="1000px" height="auto"/> <br/><br/>
   <img src="./Screenshots/LevelScreen.png" width="1000px" height="auto"/> <br/><br/>
