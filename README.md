@@ -19,18 +19,14 @@ Put some images of your project here.
 ## :open_book: About 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-# Features
-- 🤠 Lorem Ipsum is simply dummy text of the printing and typesetting industry
-- ✨ Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-- 👍 It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages
-
 ## :bricks: This project was built with: 
-- [Awesome technology here](http://link.here.com)
+- [Unity](https://unity.com/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [Blender](https://www.blender.org/)
 
 ## 🏄‍♂️ Quick Start
- 1. Clone this repository `git clone https://github.com/pferreirafabricio/inmana.git`;
- 2. Enter in the project's folder: `cd ?`
- 3. Finally `...` 😃
+ 1. Clone this repository `git clone https://github.com/pferreirafabricio/mini-kids.git`;
+ 2. Open `min-kids` folder with Unity and be happy 😄.
  
 ## :recycle: Contribute
  1. Fork this repository;
