@@ -1,5 +1,5 @@
 <h1 align="right">
-  <img src="https://ravennaareachamber.com/wp-content/uploads/2017/03/your-company-lsiting.png" width="200px" align="left" />
+  <img src="./Assets/Imagens/Logos/Logo%20-%20Chapeu.png" width="200px" align="left" />
   Mini Kids
 </h1>
 
@@ -8,7 +8,7 @@
   <br><br>
   <!-- License -->
   <a>
-    <img alt="license url" src="https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge&labelColor=1C1E26&color=61ffca">
+    <img alt="license url" src="https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge&labelColor=1C1E26&color=7349bd">
   </a>
 </p>
 <br>
