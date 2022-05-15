@@ -14,7 +14,12 @@
 <br>
 
 ## :eyes: Overview
-Put some images of your project here.
+
+<p align="center">
+  <img src="./Screenshots/Home.png" width="1000px" height="auto"/> <br/><br/>
+  <img src="./Screenshots/LevelScreen.png" width="1000px" height="auto"/> <br/><br/>
+  <img src="./Screenshots/Level1.png" width="1000px" height="auto"/> <br/><br/>
+</p>
 
 ## :open_book: About 
 The Mini Kids has as its main objective the education of children inserted in the stage of early childhood education and elementary school I, using a virtual educational game as a tool for this, having as a basis for its development official guiding documents, such as the BNCC, DCNEI, and RCNEI, etc.
