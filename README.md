@@ -32,7 +32,7 @@ The Mini Kids has as its main objective the education of children inserted in th
 - [Blender](https://www.blender.org/)
 
 ## 🏄‍♂️ Quick Start
- 1. Clone this repository `git clone https://github.com/pferreirafabricio/mini-kids.git`;
+ 1. Clone this repository `git clone https://github.com/pferreirafabricio/mini-kids.git`
  2. Open `min-kids` folder with Unity and be happy 😄.
  
 ## :recycle: Contribute
